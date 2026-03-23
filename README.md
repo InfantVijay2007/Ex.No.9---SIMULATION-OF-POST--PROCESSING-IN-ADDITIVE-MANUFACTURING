@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/216606e3-a0d9-4c1b-8e42-f4d67812a1db" /># Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+># Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 23/3/2026
 
